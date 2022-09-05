@@ -12,7 +12,7 @@ def guess(x):
     
     print(f'Yay, congrats. you have gussed the number {random_num}')
 
-# guess(50)
+guess(50)
 
 def computer_guess(x):
     low = 1
